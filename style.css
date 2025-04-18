@@ -6,7 +6,7 @@
     --branco: #a36c3e;
     --botao-ativo: #f7c8e2;
     --botao-inativo: #fde1f2;
-    --texto-fundo: rgb(240, 150, 204);
+    --texto-fundo: rgb(233, 142, 188);
     --colorido:#
 }
 
@@ -15,7 +15,7 @@ body {
     color: var(--branco);
     font-family: 'Times New Roman', sans-serif;
 opacity: var(--botão-ativo);
-    background-image: url(https://i.pinimg.com/736x/59/e7/80/59e7808c9602d025274c6bbdc62b0ee5.jpg)
+background-image: url(https://i.pinimg.com/736x/7f/9b/05/7f9b05e25f180569ebadeb7593edfa7e.jpg);
 
 }
 .conteudo-principal {
@@ -25,8 +25,8 @@ opacity: var(--botão-ativo);
     align-items: center;
     max-width: 1200px;
     width: 100%;
-    margin: 0 auto;
-    font-size: 21px;
+    margin: 10 auto;
+    font-size: 22px;
 }
 
 .titulo-principal {
@@ -47,14 +47,14 @@ opacity: var(--botão-ativo);
     display: flex;
     justify-content: center;
     padding: 1em;
-    font-size: 17px;
+    font-size: 19px;
     align-items: center;
     width: 100%;
     border-bottom: 4px solid var(--botao-ativo);
     border-left: 2px solid var(--botao-inativo);
     border-right: 2px solid var(--botao-inativo);
     border-top: none;
-    background-image: url(https://i.pinimg.com/736x/a4/1b/e2/a41be22414857a0ce975af8fe34990e6.jpg)
+    background-image:
     background-position center center; 
     background-size: cover; 
     background-repeat: no-repeat;
