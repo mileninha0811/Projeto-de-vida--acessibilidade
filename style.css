@@ -3,10 +3,10 @@
 :root {
     --cor-de-fundo: lab(80.61% 25.16 -8.21);
     --verde: hsl(60, 7%, 97%);
-    --branco: #a36c3e;
+    --branco: #9e693e;
     --botao-ativo: #f7c8e2;
     --botao-inativo: #fde1f2;
-    --texto-fundo: rgb(233, 142, 188);
+    --texto-fundo: rgb(235, 141, 188);
     --colorido:#
 }
 
@@ -54,7 +54,7 @@ background-image: url(https://i.pinimg.com/736x/7f/9b/05/7f9b05e25f180569ebadeb7
     border-left: 2px solid var(--botao-inativo);
     border-right: 2px solid var(--botao-inativo);
     border-top: none;
-    background-image:
+    background-image: url(https://i.pinimg.com/736x/7f/9b/05/7f9b05e25f180569ebadeb7593edfa7e.jpg)
     background-position center center; 
     background-size: cover; 
     background-repeat: no-repeat;
